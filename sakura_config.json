@@ -1,6 +1,6 @@
 {
   "he_thong": {
-    "threads": 5,
+    "threads": 100,
     "max_retry": 3,
     "timeout": 20,
     "delay_between": 0,
