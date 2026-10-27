@@ -1,0 +1,60 @@
+{
+  "he_thong": {
+    "threads": 5,
+    "max_retry": 3,
+    "timeout": 20,
+    "delay_between": 0,
+    "tu_chay_lai_vi_loi": 2,
+    "hoi_chay_lai_vi_loi": false,
+    "tu_dong_lap_lai": false,
+    "hen_gio_chay_lai_gio": 12
+  },
+  "ghi_file": {
+    "log": true,
+    "result": true,
+    "error": true,
+    "balance_report": true
+  },
+  "daily": {
+    "checkin": true,
+    "farm": true,
+    "claim_min_fill": 0.0,
+    "draw": true,
+    "onboard": true,
+    "starter_card": "mizuchi",
+    "auto_duel": true,
+    "manual_duel_sau_auto": true,
+    "manual_duel_toi_da": 20,
+    "giu_lai_resolve": 0,
+    "quest": true,
+    "dwell_seconds": 20,
+    "milestones": true,
+    "skip_task_ids": [
+      "cmujz1o8x0yi7p701dsoydki9",
+      "cmud2cg271vztxu01pp63a42h",
+      "cmten94u30001tp01q0lmgwq1"
+    ],
+    "scrolls": {
+      "mo_set_co_san": true,
+      "mua_set": true,
+      "min_petals_to_buy": 30000,
+      "keep_petals": 0,
+      "max_buy_per_wallet": 20,
+      "mo_sau_khi_mua": true,
+      "claim_pass": true
+    }
+  },
+  "balance": {
+    "show_history": true,
+    "history_limit": 10
+  },
+  "dang_nhap": {
+    "tu_login_khi_token_chet": true,
+    "sitekey": "0x4AAAAAAE_-UaxUbwRXSJtL",
+    "pageurl": "https://sakurafields.com/",
+    "captcha_timeout": 120
+  },
+  "connect_x": {
+    "tu_link": true
+  }
+}
