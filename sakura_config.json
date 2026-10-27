@@ -10,9 +10,9 @@
     "hen_gio_chay_lai_gio": 12
   },
   "ghi_file": {
-    "log": true,
-    "result": true,
-    "error": true,
+    "log": false,
+    "result": false,
+    "error": false,
     "balance_report": true
   },
   "daily": {
